@@ -17,7 +17,7 @@ class ViewController: UIViewController
         }
     }
     
-    @IBOutlet weak var flipCountLabel: UILabel! // ! is important, not initialized
+    @IBOutlet weak var flipCountLabel: UILabel! 
     
     @IBOutlet var cardButtons: Array<UIButton>!
     
