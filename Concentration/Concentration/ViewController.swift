@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Concentration
 //
-//  Created by Xiaohan Wang on 6/14/18.
-//  Copyright © 2018 Xiaohan Wang. All rights reserved.
+//  Created by xhaw on 6/14/18.
+//  Copyright © 2018 xhaw. All rights reserved.
 //
 
 import UIKit
